@@ -737,7 +737,7 @@
                     theme.play("", 0, .3, true);
                     menubackground = game.add.sprite(0, 0, "menubackground");
                     menubackground.alpha = 0;
-                    logo = game.add.text(game.world.centerX, game.world.centerY - 150, "ELEMENTAL ONE", {
+                    logo = game.add.text(game.world.centerX, game.world.centerY - 150, "CREAMIE ONE", {
                         font: '45px "minecraftiaregular"',
                         fill: "slategray",
                         align: "center"
